@@ -42,11 +42,7 @@ export default class IndexPage extends React.Component {
               <div className="col-lg-8 text-center">
                 <h2 className="text-white mt-0">We've got what you need!</h2>
                 <hr className="divider light my-4"/>
-                <p className="text-white-50 mb-4">Edited again - Start Bootstrap has everything you need to get your new website up
-                  and
-                  running in no time! Choose one of our open source, free to download, and easy to use themes! No
-                  strings
-                  attached!</p>
+                <p className="text-white-50 mb-4">Some sort of promotional text goes here.</p>
                 <a className="btn btn-light btn-xl js-scroll-trigger" href="#services"
                    onClick={Scroller.handleAnchorScroll}>Get Started!</a>
               </div>
@@ -178,8 +174,8 @@ export default class IndexPage extends React.Component {
 
         <section className="page-section bg-dark text-white">
           <div className="container text-center">
-            <h2 className="mb-4">Free Download at Start Bootstrap!</h2>
-            <a className="btn btn-light btn-xl" href="https://startbootstrap.com/themes/creative/">Download Now!</a>
+            <h2 className="mb-4">Free Download Somewhere</h2>
+            <a className="btn btn-light btn-xl" href="#">Download Something</a>
           </div>
         </section>
 
@@ -197,11 +193,11 @@ export default class IndexPage extends React.Component {
             <div className="row">
               <div className="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-                <div>+1 (202) 555-0149</div>
+                <div>+1 (###) ###-####</div>
               </div>
               <div className="col-lg-4 mr-auto text-center">
                 <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
-                <a className="d-block" href="mailto:contact@yourwebsite.com">contact@yourwebsite.com</a>
+                <a className="d-block" href="mailto:contact@yourwebsite.com">contact@somewebsite.com</a>
               </div>
             </div>
           </div>
