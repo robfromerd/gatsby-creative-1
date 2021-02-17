@@ -42,7 +42,7 @@ export default class IndexPage extends React.Component {
               <div className="col-lg-8 text-center">
                 <h2 className="text-white mt-0">We've got what you need!</h2>
                 <hr className="divider light my-4"/>
-                <p className="text-white-50 mb-4">Edited - Start Bootstrap has everything you need to get your new website up
+                <p className="text-white-50 mb-4">Edited again - Start Bootstrap has everything you need to get your new website up
                   and
                   running in no time! Choose one of our open source, free to download, and easy to use themes! No
                   strings
